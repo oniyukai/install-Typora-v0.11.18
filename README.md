@@ -1,5 +1,5 @@
 # Typora v0.11.18 安裝說明
-這篇會教你如何用正當管道的取得Typora v0.11.18(beta)(Windows)，以及解除它顯示過舊無法打開的方法。
+這篇會教你如何用正當管道的取得Typora v0.11.18(beta)(Windows)，以及解除它顯示版本過舊無法打開的方法。
 
 ## 軟體介紹：
 Typora是一款由Abner Lee開發的輕量級Markdown編輯器。而Typora v0.11.18 (beta)是Typora的歷史版本，這個版本是免費版本中的最後更新版，之後正式版(1.0後)要收費。
@@ -22,4 +22,4 @@ Typora是一款由Abner Lee開發的輕量級Markdown編輯器。而Typora v0.11
 6. 把所有的群組或使用者的完全控制權限調成拒絕。
 7. 按下套用後確定，安裝完成。
 
-> 安裝檔"typora-update-x64-1117.exe"已經在官網下載不了，原先網址為：https://download.typora.io/windows/typora-update-x64-1117.exe。但是在[網際網路檔案館](https://archive.org/)有這個安裝檔的備份，教學中的檔案連結就是檔案館的。
+> 安裝檔"typora-update-x64-1117.exe"已經在官網無法下載了，原先網址為<https://download.typora.io/windows/typora-update-x64-1117.exe>。但是在[網際網路檔案館](https://archive.org/)有這個安裝檔的備份，教學中的檔案下載連結就是網際網路檔案館的。
