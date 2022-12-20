@@ -4,9 +4,8 @@
 ## 軟體介紹：
 Typora是一款由Abner Lee開發的輕量級Markdown編輯器。而Typora v0.11.18 (beta)是Typora的歷史版本，這個版本是免費版本中的最後更新版，之後正式版(1.0後)要收費。
 
-項目名稱 | 資訊
-:-----: | :-----
 軟體名稱 | Typora v0.11.18
+:-----: | :-----
 版本 | v0.11.18 (beta)
 功能 | Markdown編輯器
 開發者 | Abner Lee
